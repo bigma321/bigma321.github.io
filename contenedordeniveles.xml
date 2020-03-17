@@ -1,16 +1,14 @@
 <CONTENEDOR_NIVELES>
     <NIVELES>
-        <NIVEL NOMBRE_NIVEL="1">
+        <NIVEL NOMBRE_NIVEL="NOMBRE NIVEL">
             <IMAGENES>
                 <IMAGEN TEXTO="VACA" RUTA_IMAGEN="https://i.imgur.com/N46gvyC.jpg"/>
 				<IMAGEN TEXTO="MARIPOSA" RUTA_IMAGEN="https://i.imgur.com/XnmYEYR.jpg"/>
 				<IMAGEN TEXTO="GATO" RUTA_IMAGEN="https://i.imgur.com/wRvO5K8.jpg"/>
 				<IMAGEN TEXTO="PERRO" RUTA_IMAGEN="https://i.imgur.com/3pt86SQ.jpg"/>
-				<IMAGEN TEXTO="RATA" RUTA_IMAGEN="https://miro.medium.com/max/759/1*dae-e5E0bCHI1tn-W86HGA.jpeg"/>
+				<IMAGEN TEXTO="RATA" RUTA_IMAGEN="https://i.imgur.com/zj3aikS.jpg"/>
+				<IMAGEN TEXTO="BOLUDO" RUTA_IMAGEN="https://preview.redd.it/ukw5jrd549n41.jpg?width=640&crop=smart&auto=webp&s=a9d3980eb76a78659a176db239e9fc343087040a"/>
             </IMAGENES>
         </NIVEL>
     </NIVELES>
 </CONTENEDOR_NIVELES>
-
-<!--aspectRatio = 1000/724 = 1.38121546961
-newWidth = (500*1.38121546961) -->
