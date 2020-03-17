@@ -7,6 +7,7 @@
 				<IMAGEN TEXTO="GATO" RUTA_IMAGEN="https://i.imgur.com/wRvO5K8.jpg"/>
 				<IMAGEN TEXTO="PERRO" RUTA_IMAGEN="https://i.imgur.com/3pt86SQ.jpg"/>
 				<IMAGEN TEXTO="RATA" RUTA_IMAGEN="https://i.imgur.com/zj3aikS.jpg"/>
+				<IMAGEN TEXTO="BOLUDO" RUTA_IMAGEN = "https://i.imgur.com/J2bV3kc.jpg"/>
             </IMAGENES>
         </NIVEL>
     </NIVELES>
