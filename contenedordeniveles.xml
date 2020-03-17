@@ -3,7 +3,7 @@
         <NIVEL NOMBRE_NIVEL="1">
             <IMAGENES>
                 <IMAGEN TEXTO="VACA" RUTA_IMAGEN="https://i.imgur.com/N46gvyC.jpg"/>
-				<IMAGEN TEXTO="MARIPOSA" RUTA_IMAGEN="https://mariposasdecolores.com/wp-content/uploads/2018/07/mariposa-morpho-azul.jpg"/>
+				<IMAGEN TEXTO="MARIPOSA" RUTA_IMAGEN="https://i.imgur.com/XnmYEYR.jpg"/>
 				<IMAGEN TEXTO="GATO" RUTA_IMAGEN="https://i.imgur.com/wRvO5K8.jpg"/>
 				<IMAGEN TEXTO="PERRO" RUTA_IMAGEN="https://i.imgur.com/3pt86SQ.jpg"/>
 				<IMAGEN TEXTO="RATA" RUTA_IMAGEN="https://miro.medium.com/max/759/1*dae-e5E0bCHI1tn-W86HGA.jpeg"/>
