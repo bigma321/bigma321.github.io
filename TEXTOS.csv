@@ -1,7 +1,7 @@
 NOMBRE_TEMA;TEXTO_A_COMPLETAR;LINK_IMAGEN
 COLORES;AZUL;https://i.imgur.com/8Ck79r5.png
 COLORES;AMARILLO;https://lh3.googleusercontent.com/proxy/1ajxg_PnT6RFb5ZyEd9on_zNMBtvkFwpiRpS6cwjCeh1fHl6qOhr1OU3kAiOFJURQR5nNNx8nySsVlb6X-U2-MxgeEH0MgcwOa_LxR2abT86RSRfmGVm5gVrxsLs0Rr1-VvK_40GwGtl
-NUMEROS;VEINTE;https://image.freepik.com/foto-gratis/numero-20_2227-898.jpg
+ANIMALES;GATO;https://i.imgur.com/mtbl1cr.jpg
 COLORES;ANARANJADO;
 COLORES;VERDE;
 COLORES;MARRÓN;
@@ -10,3 +10,4 @@ COLORES;VIOLETA;
 COLORES;NEGRO;
 COLORES;ROSA;
 COLORES;GRIS;aa
+END;;
