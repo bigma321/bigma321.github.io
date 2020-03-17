@@ -5,6 +5,7 @@
                 <IMAGEN TEXTO="VACA" RUTA_IMAGEN="https://i.imgur.com/N46gvyC.jpg"/>
 				<IMAGEN TEXTO="GATO" RUTA_IMAGEN="https://i.imgur.com/wRvO5K8.jpg"/>
 				<IMAGEN TEXTO="PERRO" RUTA_IMAGEN="https://i.imgur.com/3pt86SQ.jpg"/>
+				<IMAGEN TEXTO="TEST" RUTA_IMAGEN="https://i.imgur.com/QGZxdcd.png"/>
             </IMAGENES>
         </NIVEL>
     </NIVELES>
