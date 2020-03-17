@@ -1,0 +1,10 @@
+<CONTENEDOR_NIVELES>
+    <NIVELES>
+        <NIVEL NOMBRE_NIVEL="1">
+            <IMAGENES>
+                <IMAGEN TEXTO="VACA" RUTA_IMAGEN="https://i.imgur.com/N46gvyC.jpg"/>
+				<IMAGEN TEXTO="GATO" RUTA_IMAGEN="https://i.imgur.com/wRvO5K8.jpg"/>
+            </IMAGENES>
+        </NIVEL>
+    </NIVELES>
+</CONTENEDOR_NIVELES>
