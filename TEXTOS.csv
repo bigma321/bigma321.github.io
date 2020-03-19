@@ -1,5 +1,5 @@
 NOMBRE_TEMA;TEXTO_A_COMPLETAR;LINK_IMAGEN
-COLORES;ROJO;https://i.imgur.com/JShpT47.png
+COLORES ;ROJO;https://i.imgur.com/JShpT47.png
 COLORES;MARRON;https://i.imgur.com/GMSTLBw.png
 COLORES;ANARANJADO;https://i.imgur.com/UWU3GFB.png
 COLORES;BLANCO;https://i.imgur.com/6cz7Xxp.jpg
@@ -9,4 +9,14 @@ COLORES;NEGRO;https://i.imgur.com/sdsipWO.jpg
 COLORES;AZUL;https://i.imgur.com/c18h6Zf.png
 COLORES;VERDE;https://i.imgur.com/UABfHpA.png
 COLORES;AMARILLO;https://i.imgur.com/xNuGMTo.png
+NÚMEROS;10;https://i.imgur.com/YhlhG38.png
+NÚMEROS;20;https://i.imgur.com/OqQmEJ9.png
+NÚMEROS;30;https://i.imgur.com/z5Evkt0.png
+NÚMEROS;40;https://i.imgur.com/e3c2ix5.png
+NÚMEROS;50;https://i.imgur.com/W3B5NZT.png
+NÚMEROS;60;https://i.imgur.com/Xu4LIWN.png
+NÚMEROS;70;https://i.imgur.com/MC4s7s3.png
+NÚMEROS;80;https://i.imgur.com/oRTsWfm.png
+NÚMEROS;90;https://i.imgur.com/KGz8Lb8.png
+NÚMEROS;100;https://i.imgur.com/6Kb1kEJ.png
 END;;
